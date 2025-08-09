@@ -122,6 +122,6 @@ python fill_pdf.py
 
 ---
 
-## Contact / Notes
+## Notes
 
 If you want, I can update the prototype so `fill_pdf.py` loads coordinates from a `mapping.json` (so the repo matches the client's "mapping specs" requirement). Just say “yes” and I’ll add the `mapping.json` + updated `fill_pdf.py`.
